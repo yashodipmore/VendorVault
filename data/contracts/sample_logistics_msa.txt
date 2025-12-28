@@ -1,0 +1,71 @@
+MASTER SERVICES AGREEMENT
+
+This Master Services Agreement ("MSA") is entered into as of March 1, 2025
+
+PARTIES:
+Global Logistics Inc. ("Provider")
+123 Shipping Lane, Los Angeles, CA 90001
+
+AND:
+
+Manufacturing Corp ("Client")
+456 Industrial Blvd, Detroit, MI 48201
+
+WHEREAS Provider is engaged in providing comprehensive logistics and supply chain
+management services, and Client desires to engage Provider for such services.
+
+ARTICLE 1 - SCOPE OF SERVICES
+1.1 Provider shall provide comprehensive logistics and supply chain management services
+for Client's global distribution network, including:
+- Warehousing and inventory management
+- Freight forwarding and transportation
+- Customs brokerage and compliance
+- Last-mile delivery services
+- Real-time tracking and analytics
+
+ARTICLE 2 - TERM AND TERMINATION
+2.1 Initial Term: 36 months from effective date
+2.2 Renewal: Automatic renewal for successive 12-month periods
+2.3 Termination for convenience: 90 days written notice
+2.4 Termination for cause: 30 days notice with opportunity to cure
+
+ARTICLE 3 - COMPENSATION
+3.1 Annual Contract Value: $2,500,000 USD
+3.2 Payment Terms: Net 60 days from invoice date
+3.3 Volume Discounts: 5% discount for volumes exceeding projections by 20%
+3.4 Fuel Surcharge: Variable based on DOE index
+
+ARTICLE 4 - SERVICE LEVELS
+4.1 On-time delivery rate: 98.5% minimum
+4.2 Inventory accuracy: 99.9% minimum
+4.3 Damage rate: Less than 0.1%
+4.4 Same-day delivery available for expedited orders
+
+ARTICLE 5 - INSURANCE AND LIABILITY
+5.1 Provider maintains $10,000,000 general liability insurance
+5.2 Cargo insurance: $500,000 per shipment
+5.3 Maximum liability: Annual contract value
+
+ARTICLE 6 - COMPLIANCE
+6.1 Provider shall comply with all applicable laws and regulations
+6.2 C-TPAT certified facility
+6.3 ISO 9001:2015 certified operations
+
+ARTICLE 7 - CONFIDENTIALITY
+Both parties shall maintain strict confidentiality of all proprietary information,
+trade secrets, and business data exchanged during the term of this Agreement.
+
+ARTICLE 8 - FORCE MAJEURE
+Neither party shall be liable for delays caused by circumstances beyond reasonable
+control, including natural disasters, war, government action, or pandemic.
+
+ARTICLE 9 - GOVERNING LAW
+This Agreement shall be governed by the laws of the State of California.
+Disputes shall be resolved through binding arbitration in Los Angeles, CA.
+
+IN WITNESS WHEREOF:
+
+_________________________          _________________________
+Global Logistics Inc.              Manufacturing Corp
+By: John Smith, CEO                By: Jane Doe, COO
+Date: March 1, 2025                Date: March 1, 2025

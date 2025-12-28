@@ -1,0 +1,49 @@
+SERVICE AGREEMENT
+
+This Service Agreement ("Agreement") is entered into as of January 1, 2025
+
+BETWEEN:
+Acme Corporation ("Provider")
+AND:
+Your Company Inc. ("Client")
+
+1. SERVICES
+Provider agrees to provide annual IT infrastructure maintenance and support services 
+including 24/7 monitoring, security updates, and technical support.
+
+2. TERM
+This Agreement shall commence on January 1, 2025 and continue for a period of 12 months,
+automatically renewing unless terminated with 30 days written notice.
+
+3. COMPENSATION
+Client agrees to pay Provider the sum of $450,000 USD annually, payable in quarterly
+installments of $112,500 USD. Payment terms: Net 30 days from invoice date.
+
+4. SERVICE LEVEL AGREEMENT
+Provider guarantees 99.9% uptime for all covered systems.
+Response time for critical issues: 15 minutes
+Response time for standard issues: 4 hours
+
+5. WARRANTY
+Provider warrants that all services will be performed in a professional manner
+consistent with industry standards. Warranty period: 12 months.
+
+6. CONFIDENTIALITY
+Both parties agree to maintain strict confidentiality of all proprietary information
+exchanged during the term of this Agreement.
+
+7. LIMITATION OF LIABILITY
+Provider's total liability shall not exceed the annual contract value of $450,000 USD.
+
+8. TERMINATION
+Either party may terminate this Agreement with 30 days written notice.
+Early termination fee: 20% of remaining contract value.
+
+9. GOVERNING LAW
+This Agreement shall be governed by the laws of the State of California.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement.
+
+_________________________          _________________________
+Acme Corporation                   Your Company Inc.
+Date: January 1, 2025              Date: January 1, 2025
