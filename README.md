@@ -181,8 +181,6 @@ vendir/
 
 - **Yashodip More** (Leader) - yashodipmore2004@gmail.com
 - Tejas Patil
-- Jaykumar Giras
-- Komal Kumavat
 
 ---
 
